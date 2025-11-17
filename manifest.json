@@ -3,7 +3,7 @@
   "short_name": "MAX",
   "description": "Быстрое и лёгкое приложение для общения и решения повседневных задач",
   "start_url": "/index.html",
-  "display": "standalone",
+  "display": "fullscreen",
   "background_color": "#E8E5FF",
   "theme_color": "#667eea",
   "orientation": "portrait",
